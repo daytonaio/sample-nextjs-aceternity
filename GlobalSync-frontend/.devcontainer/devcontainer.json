@@ -1,0 +1,21 @@
+{
+    "name": "GlobalSync Development Container",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node",
+    "forwardPorts": [
+      3000
+    ],
+    "customizations": {
+      "vscode": {
+        "settings": {
+          "eslint.enable": true,
+          "editor.formatOnSave": true
+        },
+        "extensions": [
+          "esbenp.prettier-vscode",
+          "dbaeumer.vscode-eslint",
+          "ms-vscode.vscode-typescript-tslint-plugin"
+        ]
+      }
+    },
+    "postCreateCommand": "npm install"
+  }
