@@ -9,7 +9,7 @@
 1. **Install Daytona**: Follow the [Daytona installation guide](https://www.daytona.io/docs/installation/installation/).  
 2. **Create the Workspace**:  
    ```bash  
-   daytona create https://github.com/AkashJana18/sample-nextjs-aceternity.git
+   daytona create https://github.com/daytonaio/sample-nextjs-aceternity
    ```  
 3. **Start the Application**:  
    ```bash  
