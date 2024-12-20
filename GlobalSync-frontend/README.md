@@ -81,7 +81,7 @@ We welcome contributions!
 
 ## 🐞 Reporting Issues
 
-If you encounter any issues, please report them [here](https://github.com/daytonaio/sample-nextjs-aceternity/issues).
+If you encounter any issues, please report them [here](https://github.com/GlobalSync/GlobalSync/issues).
 
 ---
 
